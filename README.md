@@ -1,12 +1,14 @@
 # dropbear
-Dropbear files compiled for the Juno-r2 board and to be used with OP-TEE OS.
+Dropbear files compiled for the Juno-r2 board and to be used with OP-TEE OS. The use of dropbear makes the development of applications much easier as it is possible connect to the board by ssh and to send files by scp.
 
 Tested on Juno-r2 board at 15:39:32 WEST Tuesday, 9 August 2016.
 
 Note: For this to work it is needed to install `dropbear-bin`: `$ sudo apt install dropbear-bin`
 
 ## Compilation
-The binaries are already compiled. This were the steps followed:
+The binaries are already compiled it is NOT needed to follow this steps they are here just to indicate the process used. 
+
+This were the steps followed:
 
 1. Download `buildroot-2016.02` to `Desktop`
 
