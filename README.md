@@ -99,10 +99,10 @@ The binaries are already compiled. This were the steps followed:
  
 8. Launch `dropbear` in the backgroud:
 
-```
-root@FVP:/ dropbear
-[1052] Aug 09 14:27:48 Running in background
-```
+    ```
+    root@FVP:/ dropbear
+    [1052] Aug 09 14:27:48 Running in background
+    ```
 
 9. Connect by `ssh` or send files by `scp` form your computer to the `root@149.198.57.245`.
 
