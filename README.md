@@ -38,7 +38,7 @@ The binaries are already compiled. This were the steps followed:
 
 ## Instructions
 
-1. Before executing the `make all` to compile the `OPTEE-OS` apply the patch to include the dropbear files into the rootfs.
+1. Before executing the `make all` to compile the `OPTEE-OS` apply the patch (that is at end of this file) to include the dropbear files into the rootfs.
 
 2. Now compile the `OPTEE-OS` with `make all`
 
